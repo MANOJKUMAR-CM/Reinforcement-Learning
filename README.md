@@ -25,15 +25,16 @@ The first tutorial explores the **Bandit Problem**, implementing and analyzing d
 
 📊 Comparative analysis of these algorithms is conducted to evaluate their performance in different settings.
 
-### **Tutorial 2: MENACE - A Tic-Tac-Toe Learning System**
-The second tutorial focuses on MENACE (Matchbox Educable Noughts And Crosses Engine), a physical reinforcement learning system designed by Donald Michie to play Tic-Tac-Toe.
+### **Tutorial 2: MENACE - A Tic-Tac-Toe Learning System**  
+The second tutorial focuses on **MENACE (Matchbox Educable Noughts And Crosses Engine)**, a physical reinforcement learning system designed by **Donald Michie** to play Tic-Tac-Toe.  
 
-✅ **Understanding MENACE's Box-based Learning Approach**
-✅ **Implementation of MENACE in Python**
-✅ **Training MENACE to Improve Gameplay**
-✅ **Analysis of MENACE's Learning over Multiple Rounds**
+- ✅ **Understanding MENACE's Box-based Learning Approach**  
+- ✅ **Implementation of MENACE in Python**  
+- ✅ **Training MENACE to Improve Gameplay**  
+- ✅ **Analysis of MENACE's Learning over Multiple Rounds**  
 
-📈 This tutorial demonstrates how reinforcement learning principles can be applied even without traditional programming.
+📈 This tutorial demonstrates how reinforcement learning principles can be applied even without traditional programming.  
+
 ---
 
 ## 🔮 Future Updates  
