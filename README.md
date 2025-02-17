@@ -18,10 +18,10 @@ This repository contains implementations of various reinforcement learning algor
 ###  **Tutorial 1: Multi-Armed Bandit Algorithms**  
 The first tutorial explores the **Bandit Problem**, implementing and analyzing different action-selection strategies:  
 
-✅ **Random Policy**  
-✅ **Epsilon-Greedy Algorithm**  
-✅ **Softmax Exploration**  
-✅ **Upper Confidence Bound (UCB)**  
+- ✅ **Random Policy**  
+- ✅ **Epsilon-Greedy Algorithm**  
+- ✅ **Softmax Exploration**  
+- ✅ **Upper Confidence Bound (UCB)**  
 
 📊 Comparative analysis of these algorithms is conducted to evaluate their performance in different settings.
 
