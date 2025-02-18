@@ -39,9 +39,10 @@ The second tutorial focuses on **MENACE (Matchbox Educable Noughts And Crosses E
 
 ## 🔮 Future Updates  
 
-🔜 **Markov Decision Processes (MDPs)**  
+🔜 **Policy Interation** 
+🔜 **Value Interation**  
 🔜 **Temporal Difference Learning**  
-🔜 **Policy Gradient Methods**  
+🔜 **Monte Carlo Methods**  
 🔜 **Deep Reinforcement Learning**  
 
 Stay tuned for upcoming implementations and insights! 🎯
