@@ -35,27 +35,19 @@ The second tutorial focuses on **MENACE (Matchbox Educable Noughts And Crosses E
 
 📈 This tutorial demonstrates how reinforcement learning principles can be applied even without traditional programming.  
 
-Tutorial 3: Value Iteration & Policy Iteration
-
+###  **Tutorial 3: Value Iteration & Policy Iteration** 
 The third tutorial implements Value Iteration and Policy Iteration on a standard grid world environment. The grid world consists of 121 cells (11 x 11), where the agent can move deterministically in four directions (up, down, left, right).
 
 Markov Decision Process (MDP) Setup:
-
-States (S): 121 (11 x 11 grid)
-
-Actions (A): 4 (up, down, left, right)
-
-Transition Probability (P): Deterministic
-
-Reward Function (R): -1 at every step
-
-Discount Factor (γ): 0.9
+- States (S): 121 (11 x 11 grid)
+- Actions (A): 4 (up, down, left, right)
+- Transition Probability (P): Deterministic
+- Reward Function (R): -1 at every step
+- Discount Factor (γ): 0.9
 
 The objective is to find the optimal policy using:
-
-✅ Value Iteration
-
-✅ Policy Iteration
+- ✅ Value Iteration
+- ✅ Policy Iteration
 
 📊 The results include visualizing the convergence of values and optimal policies in the grid world.
 
