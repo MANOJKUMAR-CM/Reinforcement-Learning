@@ -75,10 +75,42 @@ The objective is to compare:
 
 ---
 
-## 🔮 Future Updates  
 
-🔜 **Temporal Difference Learning**  
-🔜 **Monte Carlo Methods**  
+### **Tutorial 5: Deep Q-Network (DQN)**  
+Applies **Deep Q-Learning** to environments with larger state spaces using neural networks:  
+
+- ✅ Experience Replay  
+- ✅ Target Networks  
+- ✅ Epsilon-Greedy Exploration  
+
+🧠 Bridges the gap between tabular Q-learning and deep reinforcement learning.
+
+---
+
+### **Tutorial 6: Deep Deterministic Policy Gradient (DDPG)**  
+Implements **DDPG**, a model-free off-policy actor-critic algorithm for **continuous action spaces**:  
+
+- ✅ Actor-Critic Architecture  
+- ✅ Soft Target Updates  
+- ✅ Ornstein-Uhlenbeck Noise for Exploration  
+
+🎯 Effective in high-dimensional, continuous control environments.
+
+---
+
+### **Tutorial 7: Actor-Critic Methods**  
+Explores **Actor-Critic algorithms** that combine policy-based and value-based methods:  
+
+- ✅ On-Policy Learning  
+- ✅ Advantage Estimation  
+- ✅ Training stability improvements  
+
+📈 Suitable for scalable policy optimization in complex environments.
+
+---
+
+## 🔮 Future Updates  
+ 
 🔜 **Deep Reinforcement Learning**  
 
 Stay tuned for upcoming implementations and insights! 🎯  
